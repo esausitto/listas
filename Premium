@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:0,AZ UNO
+#EXTGRP:Otros Canales
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0,Canal de las Estrellas HD
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a0le/index.m3u8
+#EXTINF:0,Azteca Internacional HD
+#EXTGRP:TV 1
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,E! Entertairment HD
+#EXTGRP:TV 1
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:0,Teen Nick HD
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a012/index.m3u8
+#EXTINF:0,Nick HD
+#EXTGRP:TV 1
+http://45.160.15.130:2909/play/014
+#EXTINF:0,El Gourmet
+#EXTGRP:TV 1
+http://45.160.15.130:2909/play/177
+#EXTINF:0,Nat Geo HD
+#EXTGRP:TV 1
+http://45.160.15.130:2909/play/027
+#EXTINF:0,Mas Chic HD
+#EXTGRP:TV 1
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10569
+#EXTINF:0,Golden Premiere HD
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a00j/index.m3u8
+#EXTINF:0,Golden Edge HD
+#EXTGRP:TV 1
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/154111
+#EXTINF:0,De Pelicula Plus HD
+#EXTGRP:TV 1
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159220
+#EXTINF:0,CineMax
+#EXTGRP:TV 1
+http://45.160.15.130:2909/play/112
+#EXTINF:0,AMC HD
+#EXTGRP:TV 1
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10548
+#EXTINF:0,Claro Musica
+#EXTGRP:TV 1
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a04a&k=SrRegio&f=.m3u8
+#EXTINF:0,MTV 00s HD
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a03g/index.m3u8
+#EXTINF:0,MTV HD
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a05e/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a052/index.m3u8
+#EXTINF:0,MTV 80 s
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a053/index.m3u8
+#EXTINF:0,Claro Sports 1 
+#EXTGRP:TV 1
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:0,ESPN HD
+#EXTGRP:TV 1
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155472
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:TV 1
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155473
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:TV 1
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155474
+#EXTINF:0,ESPN  4 
+#EXTGRP:TV 1
+http://45.228.234.167:8000/play/a086/index.m3u8
+#EXTINF:0,Claro Sports 2 HD
+#EXTGRP:TV 1
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a01j&k=SrRegio&f=.m3u8
+#EXTINF:0,TV Mar La Paz (1080p)
+#EXTGRP:General
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:0,Canal Ocho TV HD
+#EXTGRP:General
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:0,Imagen TV (720p) [Not 24/7]
+#EXTGRP:Undefined
+https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
+#EXTINF:0,Azcorazon
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:0,Telemundo 
+#EXTGRP:TV4
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2145673
+#EXTINF:0,Univision HD
+#EXTGRP:TV4
+http://45.228.234.167:8000/play/a05r/index.m3u8
+#EXTINF:0,Canal 7 HD CR
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a059/index.m3u8
+#EXTINF:0,Canal 6 - ESA
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a05g/index.m3u8
+#EXTINF:0,Canal 3 Telesistemas HND
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a020/index.m3u8
+#EXTINF:0,Canal 12 - ESA
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a05h/index.m3u8
+#EXTINF:0,Antena 3
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:0,Star TVE HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:0,CARTOON  HD
+#EXTGRP:TV4
+http://45.160.15.130:2909/play/009
+#EXTINF:0,DISNEY HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:0,Discovery Kids HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:0,TNT Series HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:0,WARNER HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:0,History HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:0,HISTORY 2 HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:0,DISCOVERY THEATHER HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:0,Discovery Home & Health
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:0,Discovery ID HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:0,Film & arts HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:0,HOLA! TV HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:0,Home & Health HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:0, LOVE NATURE HD
+#EXTGRP:TV4
+http://45.160.15.130:2909/play/a16v
+#EXTINF:0,TLC
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:0,Studio Universal HD
+#EXTGRP:TV4
+http://45.160.15.130:2909/play/098
+#EXTINF:0,HBO HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:0,HBO Plus HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:0,HBO XTREME
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:0,SPACE HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:0,STAR CHANNEL HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0,Claro Cinema HD
+#EXTGRP:TV4
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2091457
+#EXTINF:0,AXN HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:0,CINECANAL HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:0,Cine Latino
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:0,Europa HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:0,FX HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:0,Sony Movies HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:0,Paramount HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:0,TCM
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:0,TNT HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:0,Universal cinema HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:0,HTV
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a051/index.m3u8
+#EXTINF:0,MTV SIM HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:0,FOX SPORTS 3 HD
+#EXTGRP:TV4
+http://45.160.15.130:2909/play/211
+#EXTINF:0,CNNE
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:0,TyCSports HD
+#EXTGRP:TV4
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:0,Foro TV (1080p)
+#EXTGRP:News
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:0,De Película (576p)
+#EXTGRP:Movies
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10856
+#EXTINF:0,De Película Plus HD
+#EXTGRP:Movies
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158781
+#EXTINF:0,DHE HD
+#EXTGRP:Vix
+http://45.228.234.167:8000/play/a01d/index.m3u8
+#EXTINF:0,Bein Sports Xtra
+#EXTGRP:Vix
+http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
+#EXTINF:0,Bandamax HD
+#EXTGRP:Music
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2145667
